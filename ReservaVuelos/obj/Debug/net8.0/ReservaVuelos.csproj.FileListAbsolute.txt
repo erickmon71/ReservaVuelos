@@ -250,3 +250,4 @@ C:\Users\Erick Montero\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\net8.0
 C:\Users\Erick Montero\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Erick Montero\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Erick Montero\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Erick Montero\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\net8.0\ReservaVuelos.sourcelink.json

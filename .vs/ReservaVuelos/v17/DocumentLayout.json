@@ -7,48 +7,16 @@
       "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\reservavuelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\reservavuelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C78038B0-9AF7-41DF-BEE3-D955B54DECBC}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\erick montero\\source\\repos\\reservavuelos\\reservavuelos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -66,56 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ReservaVuelos\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T03:25:29.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Servicios\\Implementacion\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Servicios\\Implementacion\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Servicios\\Implementacion\\UsuarioService.cs",
-              "RelativeToolTip": "ReservaVuelos\\Servicios\\Implementacion\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T03:23:50.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InicioController.cs",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Controllers\\InicioController.cs",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Controllers\\InicioController.cs",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Controllers\\InicioController.cs",
-              "RelativeToolTip": "ReservaVuelos\\Controllers\\InicioController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T03:25:54.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ReservaVuelos\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-14T15:09:48.088Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -124,14 +44,14 @@
               "RelativeDocumentMoniker": "ReservaVuelos\\Program.cs",
               "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Program.cs",
               "RelativeToolTip": "ReservaVuelos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T01:45:43.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Servicios\\Contrato\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "ReservaVuelos\\Servicios\\Contrato\\IUsuarioService.cs",
@@ -139,11 +59,12 @@
               "RelativeToolTip": "ReservaVuelos\\Servicios\\Contrato\\IUsuarioService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:57:15.874Z"
+              "WhenOpened": "2024-07-13T02:57:15.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Utilidades.cs",
               "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Recursos\\Utilidades.cs",
               "RelativeDocumentMoniker": "ReservaVuelos\\Recursos\\Utilidades.cs",
@@ -151,47 +72,12 @@
               "RelativeToolTip": "ReservaVuelos\\Recursos\\Utilidades.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:35:03.459Z"
+              "WhenOpened": "2024-07-13T02:35:03.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Registrarse.cshtml",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Inicio\\Registrarse.cshtml",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Views\\Inicio\\Registrarse.cshtml",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Inicio\\Registrarse.cshtml",
-              "RelativeToolTip": "ReservaVuelos\\Views\\Inicio\\Registrarse.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T03:33:00.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IniciarSesion.cshtml",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Inicio\\IniciarSesion.cshtml",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Views\\Inicio\\IniciarSesion.cshtml",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Inicio\\IniciarSesion.cshtml",
-              "RelativeToolTip": "ReservaVuelos\\Views\\Inicio\\IniciarSesion.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T03:47:48.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ReservaVuelos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ReservaVuelos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-14T15:17:03.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ReservaVuelos\\Models\\Usuario.cs",
@@ -199,23 +85,12 @@
               "RelativeToolTip": "ReservaVuelos\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T14:22:06.158Z"
+              "WhenOpened": "2024-07-14T14:22:06.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ReservaVuelos.csproj",
-              "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\ReservaVuelos.csproj",
-              "RelativeDocumentMoniker": "ReservaVuelos\\ReservaVuelos.csproj",
-              "ToolTip": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\ReservaVuelos.csproj",
-              "RelativeToolTip": "ReservaVuelos\\ReservaVuelos.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T01:47:24.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\appsettings.json",
               "RelativeDocumentMoniker": "ReservaVuelos\\appsettings.json",
@@ -227,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "TravelBookingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Erick Montero\\source\\repos\\ReservaVuelos\\ReservaVuelos\\Models\\TravelBookingDbContext.cs",
               "RelativeDocumentMoniker": "ReservaVuelos\\Models\\TravelBookingDbContext.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReservaVuelos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed62c8caafcb265b40f0d8f12e09535128e724b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReservaVuelos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReservaVuelos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
